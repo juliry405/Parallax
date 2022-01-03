@@ -1,0 +1,2 @@
+# Parallax
+Fixed images template
